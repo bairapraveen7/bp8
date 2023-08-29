@@ -1,4 +1,1 @@
-Hello World
-add3
-badd
-add4
+bye
